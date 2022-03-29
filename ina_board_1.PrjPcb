@@ -53,7 +53,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=AGUFEGEB
+DocumentUniqueId=CJRNVEBX
 
 [Document2]
 DocumentPath=nrf51.SchDoc
@@ -87,7 +87,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=RIJHWBDS
+DocumentUniqueId=COBSTWDG
 
 [Document4]
 DocumentPath=board_1.PcbDoc
@@ -107,7 +107,7 @@ GenerateClassCluster=0
 DocumentUniqueId=UHXOEPVF
 
 [Document5]
-DocumentPath=CAMtastic7.Cam
+DocumentPath=CAMtastic3.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -124,7 +124,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document6]
-DocumentPath=CAMtastic8.Cam
+DocumentPath=CAMtastic4.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139,10 +139,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for ina_board_1\Design Rule Check - board_1.html
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
